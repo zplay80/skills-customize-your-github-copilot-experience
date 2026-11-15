@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-api",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Create a simple REST API, handle requests, and validate data with FastAPI.",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2026-12-06",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "fastapi-rest-api-starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
